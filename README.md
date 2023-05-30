@@ -1,2 +1,1 @@
-# csrftoken
-PHP Csrf Token 
+Php yazılımları için basit csrf token doğrulama sistemi
